@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/morh.png" alt="TryHackMe">
- <img/src=x onmouseover=console.log(1000000000000000000000000000)/>
- <img/src=x OnErroR=console.log(1000000000000000000000000000)/>
-<img/src=x onMouseMove=console.log(1000000000000000000000000000)/>
-<img/src=x onLoad=console.log(1000000000000000000000000000)/>
