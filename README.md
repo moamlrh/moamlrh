@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/morh.png" alt="TryHackMe">
+ <img/src=x onerror=alert(1)/>
